@@ -10,7 +10,7 @@
 ## 演示效果
 
 
-[观看高清视频演示](demo/zhuxi_demo.mp4)
+[观看高清视频演示](zhuxi_gif.gif)
 
 ---
 
@@ -61,11 +61,9 @@
 ## 项目结构（简化）
 
 ```
-zhuxi-ai-demo/
-├─ demo/                 # 演示视频
+zhuxi-ai-demo/              # 演示视频
 │   ├─ zhuxi_demo.mp4
 │   └─ zhuxi_demo.gif
-├─ src/                  # 示例脚本
 ├─ docs/                 # 项目说明
 └─ README.md
 ```
