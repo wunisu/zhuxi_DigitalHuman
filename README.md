@@ -61,11 +61,11 @@
 ## 项目结构（简化）
 
 ```
-zhuxi-ai-demo/              # 演示视频
-│   ├─ zhuxi_demo.mp4
+zhuxi-ai-demo/              
+│   ├─ zhuxi_demo.mp4    # 演示视频
 │   └─ zhuxi_demo.gif
-├─ docs/                 # 项目说明
-└─ README.md
+├─ docs/                 
+└─ README.md             # 项目说明
 ```
 
 ---
